@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Days {
+public enum Days {
+    MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY,SUNDAY;
 }
