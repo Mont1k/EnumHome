@@ -13,7 +13,7 @@ public class Main {
                     case FRIDAY -> System.out.println("Жума - Session");
                     case SATURDAY -> System.out.println("Ишемби - Chill");
                     case SUNDAY -> System.out.println("Жекшемби - Chill");
-        //Proverka GitHub
+        //Proverka mmm GitHub
                 }
 
                 }
